@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Local task databases/logs
+*.log
+*.db
